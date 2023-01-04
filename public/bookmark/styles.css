@@ -199,5 +199,5 @@ div[id^="bmno"] {
   margin-top: 0%;
   margin-left: 2%;
   /* margin-right: auto; */
-  overflow-y: hidden;
+  overflow-y: auto;
 }
