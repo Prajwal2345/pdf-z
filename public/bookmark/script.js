@@ -255,7 +255,7 @@ source.addEventListener("message", message => {
         downloadPDF(convertedName);
     } 
     if(got.message == "processing-file"){
-        displayMessage.innerText = "Server is proessing file, please wait.";
+        displayMessage.innerText = "Server is processing file, please wait.";
         
     }
     if(got.message == "pages"){
